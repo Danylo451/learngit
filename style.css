@@ -1,0 +1,66 @@
+body {
+  font-size: 11px;
+}
+
+body {
+  background: #000;
+}
+
+#menu {
+  color: #fff;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.nav {
+  height: 25px;
+  margin-right: 25px;
+  font-weight: 600;
+}
+.nav .link {
+  color: #fff;
+}
+.nav .link:hover {
+  color: green;
+}
+
+.header {
+  height: 244px;
+  background: url("img/banner.jpg") center no-repeat;
+}
+
+.mainText {
+  text-align: center;
+  margin-top: 20px;
+  padding: 50px;
+  font-size: 60px;
+  color: #ffd900;
+}
+
+.top {
+  width: 780px;
+  height: 30px;
+  margin: 0 auto;
+  background: url(img/top.jpg) top center no-repeat;
+}
+
+.descriptionCs {
+  padding-top: 10px;
+  width: 100%;
+  background: url(img/back.jpg) repeat-y;
+  margin: 0 auto;
+}
+
+.infoCs {
+  padding: 5px 30px 5px 20px;
+  line-height: 1.5em;
+}
+
+.csgo {
+  padding: 0 20px;
+  font: 1.2em "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
